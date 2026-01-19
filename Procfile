@@ -1,1 +1,0 @@
-StripeGen: python main.py
